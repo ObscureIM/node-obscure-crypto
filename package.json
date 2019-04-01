@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-crypto-node.git"
+    "url": "git+https://github.com/ObscureIM/node-obscure-crypto.git"
   },
   "bugs": {
-    "url": "https://github.com/turtlecoin/turtlecoin-crypto-node/issues"
+    "url": "https://github.com/ObscureIM/node-obscure-crypto/issues"
   },
   "engines": {
     "node": ">=6"
   },
   "engineStrict": true,
-  "homepage": "https://github.com/turtlecoin/turtlecoin-crypto-node#readme",
-  "author": "The TurtleCoin Developers",
+  "homepage": "https://github.com/ObscureIM/node-obscure-crypto#readme",
+  "author": "The Obscure Developers, courtesy Developers",
   "license": "GPL-3.0",
   "dependencies": {
     "bindings": "^1.4.0",
