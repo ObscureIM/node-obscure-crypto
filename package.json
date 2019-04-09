@@ -1,6 +1,6 @@
 {
   "name": "obscure-crypto",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node C++ Addon for Obscure Cryptographic Functions, forked from turtlecoin-crypto",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "engineStrict": true,
   "homepage": "https://github.com/ObscureIM/node-obscure-crypto#readme",
-  "author": "The Obscure Developers, courtesy Developers",
+  "author": "The Obscure Developers, courtesy TurtleCoin Developers",
   "license": "GPL-3.0",
   "dependencies": {
     "bindings": "^1.4.0",
