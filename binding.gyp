@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "target_name": "turtlecoin-crypto",
+      "target_name": "obscure-crypto",
       "defines": [
         "NDEBUG"
       ],
